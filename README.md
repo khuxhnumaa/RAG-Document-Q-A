@@ -28,7 +28,7 @@ This reduces hallucinations and enables Q&A over private or custom data.
 - **LangChain**
 - **ChromaDB** (Vector Database)
 - **Sentence Transformers** (Embeddings)
-- **Groq LLM **
+- **Groq LLM**
 - **Streamlit**
 
 ---
