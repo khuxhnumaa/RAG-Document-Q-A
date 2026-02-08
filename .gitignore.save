@@ -1,0 +1,16 @@
+# Virtual environment
+rag/
+
+# Environment variables
+.env
+
+# Vector database
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
