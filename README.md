@@ -33,4 +33,3 @@ This reduces hallucinations and enables Q&A over private or custom data.
 
 ---
 
-## 📂 Project Structure
